@@ -14,19 +14,19 @@ Before running this project, ensure you have the following installed:
 
 - Python 3.x
 - Flask library (pip install flask)
-- 
+  
 # Installation
 
-**Clone this repository:
+Clone this repository:
 ```
 git clone https://github.com/yourusername/phishing-simulation-tool.git
 ```
 
 Navigate to the project directory:
+```
+cd phishing-simulation-tool
+```
 
-bash
-Copy code
-cd phishing-simulation-tool  
 Create and activate a virtual environment (optional but recommended):
 
 ```
